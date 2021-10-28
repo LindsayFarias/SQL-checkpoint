@@ -32,6 +32,10 @@ Challange 10:
 Challange 11:
 <img width="876" alt="Challange11" src="https://user-images.githubusercontent.com/89787536/139339323-3156053e-5cb0-4655-9b5c-1d02def27879.png">
 
+Challange 12 (attempt): 
+<img width="1397" alt="Challange12" src="https://user-images.githubusercontent.com/89787536/139341547-94ef8909-ed34-437d-be10-9e52e081e365.png">
+Had difficulty filtering out airline that flew to Scotland as well as additional destination.
+
 Challange 13:
 <img width="1224" alt="Challange13" src="https://user-images.githubusercontent.com/89787536/139341359-26430628-10bd-4f71-9a33-0dae2e7439e4.png">
 
