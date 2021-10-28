@@ -33,6 +33,6 @@ Challange 11:
 <img width="876" alt="Challange11" src="https://user-images.githubusercontent.com/89787536/139339323-3156053e-5cb0-4655-9b5c-1d02def27879.png">
 
 Challange 13:
-<img width="742" alt="Challange13" src="https://user-images.githubusercontent.com/89787536/139340722-8e8c3139-8918-459d-8876-1ccd4f024bf1.png">
+<img width="1224" alt="Challange13" src="https://user-images.githubusercontent.com/89787536/139341359-26430628-10bd-4f71-9a33-0dae2e7439e4.png">
 
 
